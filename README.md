@@ -1,6 +1,6 @@
 ### Hi, I'm Samiur 👋🤩☝️
 
-Computer science major with industry experience in DevOps and cloud operations, and a data scientist by research. I like building ML systems end to end: the research question and the experiments, the infrastructure that runs them, and more and more, agentic AI use cases that solve real business problems.
+Computer science major with industry experience in DevOps and cloud operations, and a data scientist by research. I like building ML systems end to end: the research question and the experiments, the infrastructure that runs them, agentic AI use cases that solve real business problems.
 
 #### 🔭 Research
 
